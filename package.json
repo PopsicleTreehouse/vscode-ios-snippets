@@ -20,19 +20,19 @@
         "contributes": {
             "snippets": [
             {
-                "language": "objective-c",
+                "language": "Logos",
                 "path": "./snippets/objc-misc.json"
             },
             {
-                "language": "objective-c",
+                "language": "Logos",
                 "path": "./snippets/objc-testing.json"
             },
             {
-                "language": "objective-c",
+                "language": "Logos",
                 "path": "./snippets/objc-fblocks.json"
             },
             {
-                "language": "objective-c",
+                "language": "Logos",
                 "path": "./snippets/objc-classes.json"
             },
             {
